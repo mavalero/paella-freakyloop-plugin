@@ -1,0 +1,36 @@
+.fl-message {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    pointer-events: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.fl-buttons {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    right: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fl-buttons button {
+    margin: 2px;
+    opacity: 0.4;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    display: block;
+}
+
+.fl-buttons button:hover {
+    opacity: 1;
+}
