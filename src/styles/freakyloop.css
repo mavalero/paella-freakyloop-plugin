@@ -14,7 +14,7 @@
 
 .fl-buttons {
     position: absolute;
-    top: 2px;
+    top: 0px;
     left: 0px;
     right: 0px;
     display: flex;
@@ -23,7 +23,7 @@
 }
 
 .fl-buttons button {
-    margin: 2px;
+    margin: 0;
     opacity: 0.4;
     padding: 0;
     width: 20px;

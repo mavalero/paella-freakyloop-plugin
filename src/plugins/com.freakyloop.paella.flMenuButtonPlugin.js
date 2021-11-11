@@ -2,7 +2,7 @@ import { MenuButtonPlugin } from 'paella-core';
 
 import { freakyloopCanvas } from 'paella-freakyloop-plugin/src/plugins/com.freakyloop.paella.freakyloopPlugin';
 
-import flButton from '../icons/freakyloop.svg'
+import flButton from '../icons/loop-arrow.svg'
 import flOnButton from '../icons/WebRTCOn.svg';
 import flOffButton from '../icons/WebRTCOff.svg';
 

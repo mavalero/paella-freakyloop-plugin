@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "paella-freakyloop-plugin@1.0.0-alfa.1",
+      "paella-freakyloop-plugin@1.0.0-alfa.2",
       "/mnt/c/Users/mvaleron/cenbox/Devel/desktop/paella-player"
     ]
   ],
-  "_from": "paella-freakyloop-plugin@1.0.0-alfa.1",
-  "_id": "paella-freakyloop-plugin@1.0.0-alfa.1",
+  "_from": "paella-freakyloop-plugin@1.0.0-alfa.2",
+  "_id": "paella-freakyloop-plugin@1.0.0-alfa.2",
   "_inBundle": false,
   "_integrity": "sha512-l/ivjWwCYSuNq0vtMqdXSS1EjTDqtfytPCl2PRXmGNFcTLh4Tch59LiP6d+EEiJhXTaoAnmrSTV5oAJUWB3Trg==",
   "_location": "/paella-freakyloop-plugin",
@@ -14,18 +14,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "paella-freakyloop-plugin@1.0.0-alfa.1",
+    "raw": "paella-freakyloop-plugin@1.0.0-alfa.2",
     "name": "paella-freakyloop-plugin",
     "escapedName": "paella-freakyloop-plugin",
-    "rawSpec": "1.0.0-alfa.1",
+    "rawSpec": "1.0.0-alfa.2",
     "saveSpec": null,
-    "fetchSpec": "1.0.0-alfa.1"
+    "fetchSpec": "1.0.0-alfa.2"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/paella-freakyloop-plugin/-/paella-freakyloop-plugin-1.0.0-alfa.1.tgz",
-  "_spec": "1.0.0-alfa.1",
+  "_resolved": "https://registry.npmjs.org/paella-freakyloop-plugin/-/paella-freakyloop-plugin-1.0.0-alfa.2.tgz",
+  "_spec": "1.0.0-alfa.2",
   "_where": "/mnt/c/Users/mvaleron/cenbox/Devel/desktop/paella-player",
   "author": {
     "name": "Miguel Angel Valero",
@@ -72,5 +72,5 @@
     "build": "webpack --mode production",
     "dev": "webpack serve --mode development --config webpack.debug.js"
   },
-  "version": "1.0.0-alfa.1"
+  "version": "1.0.0-alfa.2"
 }
